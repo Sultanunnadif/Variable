@@ -1,4 +1,4 @@
-package Belajar.Variable.Operator;
+package Tugas;
 
 public class ForLoopExam {
     public static void main(String[] args) {

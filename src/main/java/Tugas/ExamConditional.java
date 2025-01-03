@@ -1,4 +1,4 @@
-package Belajar.Variable.Operator;
+package Tugas;
 import java.util.Scanner;
 
 public class ExamConditional {
